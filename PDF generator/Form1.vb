@@ -19,7 +19,7 @@ Public Class Form1
         Dim steven As String = File.ReadAllText(location)
         Dim yourjson As myjson = JsonConvert.DeserializeObject(Of myjson)(steven)
         Dim PDFc As New Document()
-        PdfWriter.GetInstance(PDFc, New FileStream("C:\Users\User\source\repos\PDF generator\resume.json", FileMode.Create))
+        PdfWriter.GetInstance(PDFc, New FileStream("C:\Users\User\source\repos\PDF generator\resume.pdf", FileMode.Create))
 
         Dim main_font As iTextSharp.text.Font = FontFactory.GetFont(iTextSharp.text.Font.FontFamily.TIMES_ROMAN.ToString(), 22, iTextSharp.text.Font.BOLD)
         Dim lessmain_font As iTextSharp.text.Font = FontFactory.GetFont(iTextSharp.text.Font.FontFamily.TIMES_ROMAN.ToString(), 17, iTextSharp.text.Font.BOLD)
@@ -29,7 +29,7 @@ Public Class Form1
         Dim space_font As iTextSharp.text.Font = FontFactory.GetFont(iTextSharp.text.Font.FontFamily.TIMES_ROMAN.ToString(), 5, iTextSharp.text.Font.NORMAL)
         Dim normal_bold As iTextSharp.text.Font = FontFactory.GetFont(iTextSharp.text.Font.FontFamily.TIMES_ROMAN.ToString(), 12, iTextSharp.text.Font.ITALIC)
         Dim separate As New LineSeparator(2.0F, 100.0F, BaseColor.BLACK, Element.ALIGN_BOTTOM, 1)
-        Dim Name As New Paragraph(yourjson.FullName & vbLf, main_font)
+        Dim sName As New Paragraph(yourjson.FullName & vbLf, main_font)
         Dim Profile As New Paragraph(vbLf & yourjson.Profile & vbLf & vbLf, normal_font)
         Dim Address As New Paragraph(vbLf & yourjson.Address & vbLf)
         Dim Num As New Paragraph(vbLf & yourjson.PhoneNumber & vbLf)
@@ -43,7 +43,7 @@ Public Class Form1
 
 
         PDFc.Open()
-        PDFc.Add(Name)
+        PDFc.Add(sName)
         PDFc.Add(space)
         PDFc.Add(separate)
         PDFc.Add(separate)
