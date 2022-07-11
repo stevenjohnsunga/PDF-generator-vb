@@ -1,0 +1,14 @@
+{
+    "firstName": "steven",
+    "lastName": "sunga",
+    "gender": "male",
+    "age": 23,
+    "address": {
+        "streetAddress": "almanza",
+        "city": "las pinas",
+        "postalCode": "1750"
+    },
+    "phoneNumbers": [
+        { "type": "business", "number": "09052410231" }
+    ]
+}

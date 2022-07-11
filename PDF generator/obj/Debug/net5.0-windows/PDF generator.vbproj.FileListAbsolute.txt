@@ -1,0 +1,31 @@
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\PDF generator.exe
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\PDF generator.deps.json
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\PDF generator.runtimeconfig.json
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\PDF generator.runtimeconfig.dev.json
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\PDF generator.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\ref\PDF generator.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\PDF generator.pdb
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\itextsharp.pdfa.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\System.Web.Mvc.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\System.Web.Razor.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\System.Web.Helpers.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\System.Web.WebPages.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\bin\Debug\net5.0-windows\System.Web.Mvc.Extensions.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\obj\Debug\net5.0-windows\PDF generator.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\PDF generator\PDF generator\obj\Debug\net5.0-windows\PDF_generator.Form1.resources
+C:\Users\User\source\repos\PDF generator\PDF generator\obj\Debug\net5.0-windows\PDF generator.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\PDF generator\PDF generator\obj\Debug\net5.0-windows\PDF generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PDF generator\PDF generator\obj\Debug\net5.0-windows\PDF generator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PDF generator\PDF generator\obj\Debug\net5.0-windows\PDF generator.AssemblyInfo.vb
+C:\Users\User\source\repos\PDF generator\PDF generator\obj\Debug\net5.0-windows\PDF generator.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PDF generator\PDF generator\obj\Debug\net5.0-windows\PDF generator.vbproj.CopyComplete
+C:\Users\User\source\repos\PDF generator\PDF generator\obj\Debug\net5.0-windows\PDF generator.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\obj\Debug\net5.0-windows\ref\PDF generator.dll
+C:\Users\User\source\repos\PDF generator\PDF generator\obj\Debug\net5.0-windows\PDF generator.pdb
+C:\Users\User\source\repos\PDF generator\PDF generator\obj\Debug\net5.0-windows\PDF generator.genruntimeconfig.cache

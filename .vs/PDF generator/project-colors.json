@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "91732da7-6047-4f8a-9794-8a4aa3a63ae1": {
+      "ProjectGuid": "91732da7-6047-4f8a-9794-8a4aa3a63ae1",
+      "DisplayName": "PDF generator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
